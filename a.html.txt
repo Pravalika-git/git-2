@@ -6,7 +6,7 @@ code-2
 <h1> modified by hyd </h1>
 
 <h1> code by banglore</h1>
-<<<<<<< HEAD
+
 code for dev bang
 
 
