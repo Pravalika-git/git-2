@@ -2,4 +2,8 @@
 code-1
 <h2>code developed  by hyd-1</h2>
 code-2
+<<<<<<< HEAD
 <h1> modified by hyd </h1>
+
+<h1> code by banglore</h1>
+
